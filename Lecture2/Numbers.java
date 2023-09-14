@@ -52,6 +52,8 @@ public class Numbers {
         System.out.println("Integer : " + ia);
         System.out.println("Double : " + da);
 
+        
+        
     }
     public static void main(String[] args)
     {
