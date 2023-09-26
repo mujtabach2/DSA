@@ -59,6 +59,7 @@ public class Driver{
         }
         // total time = O(n) x O(m) x O(1) = O(nxm)
     }
+    // matrix arrays are also quadratic time O(n^2)
   
     public static void main(String[] args) {
         int arr[] = new int[5];
