@@ -14,6 +14,8 @@ public class Driver{
             result[i] = sum;
         }
         return result;
+        //space complexity = o(n) + o(n) = o(n)
+        // time complexity = o(n)
     }
 
     public static void main(String[] args)
