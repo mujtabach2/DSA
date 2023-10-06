@@ -70,3 +70,21 @@ public class Driver{
         two_arrays(arr1, arr2); 
     }
 }
+//
+// identify the Input Size (n):
+// Identify Basic Operations:
+
+// Count the Number of Basic Operations:
+// Analyze the algorithm and count how many times the basic operations are executed in terms of the input size 
+
+// Simplify the Expression:
+
+// Determine the Time Complexity Notation:
+public static int mod(int a, int b) {
+        if (b <= 0) {
+            return -1;
+        }
+        int div = a / b;
+        return a - div * b;
+    }
+// O(1) constant time
