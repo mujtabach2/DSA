@@ -33,7 +33,8 @@ public class Driver {
                 }
                 temp = temp.next;
             }
-            // swap the current element with the minimum element
+            // swap the current element with the minimum element so that all the elements before the current element are sorted
+            
             int tempValue = curr.value;
             curr.value = min.value;
             min.value = tempValue;
